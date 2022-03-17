@@ -1,0 +1,10 @@
+.navbar-nav a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-item{
+    margin-left: 25px;
+}
+.btns:hover{
+    transform: scale(1.2);
+}
