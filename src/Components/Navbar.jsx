@@ -46,7 +46,7 @@ function Navbar() {
               </li>
             </ul>
             <div className="buttons">
-              <Link to="" className="btn ms-2 btns">
+              <Link to="/login" className="btn ms-2 btns">
                 <i className="fa fa-sign-in me-1"></i> Login
               </Link>
               <Link to="" className="btn ms-2 btns">
